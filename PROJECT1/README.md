@@ -1,0 +1,3 @@
+# checkersEasyAI
+# checkersEasyAI
+# checkerEasyAI
